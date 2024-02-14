@@ -11,10 +11,15 @@
 #### Enabling businesses to leverage AI effectively can involve tasks like facilitating the training of custom language models to help steamline things like customer service or sales pipielines.
 
 ### Do you have a website?
-#### Our website is currently under construction and the link will be placed in here when we have finished creating our showcase
+#### Yes! Head over to [www.coupledlogic.com](http://www.coupledlogic.com)
 
 ### Can I follow you on social media?
-#### Please do! Our social links will be added here in the not-too-distant future, but for now, feel free to explore our public repositories and watch this space
+#### Please do! Our social links are below:
+- Twitter: [www.twitter.com/coupledlogic](http://www.twitter.com/coupledlogic)
+- LinkedIn: [www.linkedin.com/company/coupled-logic](https://www.linkedin.com/company/coupled-logic)
+
+Feel free to explore our public repositories and watch this space!
+
 
 <!--
 
